@@ -1,5 +1,4 @@
-# AKYPO_protonated
-LAMMPS data files of the water-air interfacial system with AKYPO.
+# Files to run LAMMPS simulation of the system of AKYPO
 
 LAMMPS data files with different number of surfactants:
 - 10-10AKYPO.data
